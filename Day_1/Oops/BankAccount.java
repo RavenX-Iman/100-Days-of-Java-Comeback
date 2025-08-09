@@ -1,6 +1,6 @@
 package Day_1.Oops;
 
-import java.lang.reflect.Method;
+
 
 public class BankAccount {
    int accountNumber;
@@ -20,6 +20,6 @@ public class BankAccount {
     public static void main(String[] args) {
         BankAccount b1 = new BankAccount(123, "alex", 2700);
         b1.displayInfo();
-        
+    
     }
 }

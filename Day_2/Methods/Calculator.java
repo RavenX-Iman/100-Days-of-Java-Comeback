@@ -95,7 +95,7 @@ public class Calculator {
             }
         }
 
-
+        w.close();
         
     }
     
